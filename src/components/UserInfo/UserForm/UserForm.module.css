@@ -1,0 +1,16 @@
+.form__label {
+  display: grid;
+  row-gap: 5px;
+
+  padding: 0 0 10px 0;
+  width: 100%;
+}
+
+.form__input {
+  display: block;
+  padding: 5px 0;
+  outline: none;
+  width: 100%;
+  border-radius: 5px;
+  border: 2px solid gainsboro;
+}

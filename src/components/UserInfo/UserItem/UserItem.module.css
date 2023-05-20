@@ -1,0 +1,5 @@
+.users-list__user {
+  padding: 5px;
+  border: 2px solid gainsboro;
+  border-radius: 5px;
+}
