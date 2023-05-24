@@ -3,6 +3,7 @@
   flex-flow: column wrap;
   row-gap: 40px;
   transform: translateY(30%);
+  z-index: -1;
 }
 
 .users-list__section {

@@ -1,9 +1,14 @@
+.form {
+  z-index: 0;
+}
+
 .form__label {
   display: grid;
   row-gap: 5px;
 
   padding: 0 0 10px 0;
   width: 100%;
+  color: white;
 }
 
 .form__input {
